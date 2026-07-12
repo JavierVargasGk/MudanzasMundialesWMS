@@ -1,0 +1,6 @@
+@MudanzasWMS.backend_HostAddress = http://localhost:5080
+
+GET {{MudanzasWMS.backend_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
